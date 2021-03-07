@@ -10,3 +10,6 @@ ZCZC W01 60 L13 Learning vi, and basic linux command
 ZCZC W01 60 L14 Create ".bash_aliases"
 ZCZC W01 20 L15 Set .gitconfig, clone my repo "os211", clone repo "SistemOperasi", make a copy of Demo Week01
 ZCZC W01 5 L16 Update mylog.txt
+ZCZC W01 120 L17 Read some article and list my 10 interisting links
+ZCZC W01 10 L04 Read how to make navigation then make it in README.md
+ZCZC W01 120 L18 Learn about regex
