@@ -2,4 +2,4 @@
 Operating Systems 2021-1 (Semester Genap 2020/2021)
 
 ## Weekly Assigment links
-[W01](adamyrayeuk.github.io/os211/W01)
+[W01](W01)
