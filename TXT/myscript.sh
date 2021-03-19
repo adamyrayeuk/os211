@@ -1,4 +1,5 @@
-opyright (C) 2020-2021 Cicak Bin Kadal
+#!/bin/bash
+# Copyright (C) 2020-2021 Cicak Bin Kadal
 # https://www.youtube.com/watch?v=KAXK07ni9gU
 
 # This free document is distributed in the hope that it will be 
