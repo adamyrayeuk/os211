@@ -32,3 +32,4 @@ ZCZC W03 150 L10 Create my top 10 list for week 3
 ZCZC W03 5 L10 Update myscript.sh
 ZCZC W03 15 L10 W03-Fuse
 ZCZC W03 5 L05 GSGS Change trust for operatingsystems@vlsm.org 
+ZCZC W03 30 L00 Pop quiz
