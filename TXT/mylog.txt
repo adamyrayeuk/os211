@@ -33,3 +33,11 @@ ZCZC W03 5 L10 Update myscript.sh
 ZCZC W03 15 L10 W03-Fuse
 ZCZC W03 5 L05 GSGS Change trust for operatingsystems@vlsm.org 
 ZCZC W03 30 L00 Pop quiz
+ZCZC W04 30 L06 Read os04 slide
+ZCZC W04 60 L06 Read Ch. 9 
+ZCZC W04 30 L08 Trying demo for week 4
+ZCZC W04 30 L10 Create TOP 3 neighbors for week 3
+ZCZC W04 120 L10 Create my top 10 list for week 4
+ZCZC W04 100 L02 Zoom
+ZCZC W04 5 L10 Update mylog
+ZCZC W04 15 L10 W04-TLPI 
