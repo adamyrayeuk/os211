@@ -41,3 +41,13 @@ ZCZC W04 120 L10 Create my top 10 list for week 4
 ZCZC W04 100 L02 Zoom
 ZCZC W04 5 L10 Update mylog
 ZCZC W04 15 L10 W04-TLPI 
+ZCZC W05 100 L02 Zoom
+ZCZC W05 30 L06 Read os05 Slide
+ZCZC W05 60 L06 Read osc slides Ch. 10
+ZCZC W05 15 L08 Trying demo for week 5
+ZCZC W05 30 L00 Pop Quiz
+ZCZC W05 30 L10 Create TOP 3 neighbors for week 4
+ZCZC W05 120 L10 Create Top 10 List for Week 5
+ZCZC W05 30 L10 W05-Demo
+ZCZC W05 5 L10 Update mylog
+
