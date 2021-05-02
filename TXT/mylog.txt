@@ -56,3 +56,9 @@ ZCZC W06 30 L10 Create TOP 3 neighbors for week 5
 ZCZC W06 120 L10 Create TOP 10 List for Week 6
 ZCZC W06 45 L10 W06-Demo
 ZCZC W06 5 L10 Update mylog
+ZCZC W07 100 L02 Zoom
+ZCZC W07 120 L06 Read OSC Slides Ch. 6, Ch. 7, Ch. 8 
+ZCZC W07 30 L10 Create TOP 3 neighbors for week 6
+ZCZC W07 120 L10 Create TOP 10 list for week 7
+ZCZC W07 5 L10 Update mylog
+ZCZC W07 60 L06 Read os07 slide

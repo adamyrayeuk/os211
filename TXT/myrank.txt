@@ -13,3 +13,6 @@ ZCZC W04 alifsaddid
 ZCZC W05 AlifHazairin
 ZCZC W05 advistasyam
 ZCZC W05 alishayb 
+ZCZC W06 AldiNFitrah
+ZCZC W06 ahmadhaydar
+ZCZC W06 advistasyam
