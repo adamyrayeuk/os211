@@ -70,3 +70,11 @@ ZCZC W08 15 L10 Create TOP 3 neighbors for week 7
 ZCZC W08 150 L10 Create TOP 10 list for week 8
 ZCZC W08 180 L10 LFS Ch. 1-4
 ZCZC W08 5 L10 Update mylog
+ZCZC W09 100 L02 Zoom
+ZCZC W09 60 L00 Pop Quiz
+ZCZC W09 45 L06 Read OSC Slides Ch. 11
+ZCZC W09 15 L06 Read os09 slide
+ZCZC W09 15 L10 Create TOP 3 neighbors for week 8
+ZCZC W09 150 L10 Create TOP 10 list for week 9
+ZCZC W09 300 L10 LFS Ch. 5-7
+ZCZC W09 5 L10 Update mylog

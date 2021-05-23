@@ -19,3 +19,6 @@ ZCZC W06 advistasyam
 ZCZC W07 aladster
 ZCZC W07 AldiNFitrah
 ZCZC W07 ahmadhaydar
+ZCZC W08 advistasyam
+ZCZC W08 ahmadhaydar
+ZCZC W08 AldiNFitrah
