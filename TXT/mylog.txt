@@ -78,3 +78,8 @@ ZCZC W09 15 L10 Create TOP 3 neighbors for week 8
 ZCZC W09 150 L10 Create TOP 10 list for week 9
 ZCZC W09 300 L10 LFS Ch. 5-7
 ZCZC W09 5 L10 Update mylog
+ZCZC W10 100 L02 Zoom
+ZCZC W10 10 L10 Create TOP 3 neighbors for week 9
+ZCZC W10 10 L10 Create tips for w10.md
+ZCZC W10 420 L10 LFS Ch. 8
+ZCZC W10 5 L10 Update mylog
